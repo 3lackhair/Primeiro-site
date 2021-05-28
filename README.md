@@ -1,3 +1,3 @@
-# Primeiro-site
-Um dos primeiros sites simples que criei usando HTML e CSS.
+# Primeiros-sites
+Um dos primeiros sites simples que criei usando template, HTML e CSS.
 Lockdown
